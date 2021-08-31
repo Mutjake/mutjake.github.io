@@ -2,6 +2,8 @@
 
 Hello world! I'm a software developer from Oulu, Finland. You can find me around by handle Mutjake. 
 
+---
+
 ## 2021-08-31
 
 Not sure if I'm going to be big on blogging, but figured this might be a good evening to start. At least there will be something here then :-) Since I'm gearing up for new studies, might as well try to hone my writing skills a bit.
