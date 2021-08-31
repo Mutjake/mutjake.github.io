@@ -1,6 +1,6 @@
 # Juho Myllylahti
 
-Hello world! I'm a software developer from Oulu, Finland. You can find me around using handle Mutjake. 
+Hello world! I'm a software developer from Oulu, Finland. You can find me around by handle Mutjake. 
 
 ## 2021-08-31
 
