@@ -1,7 +1,11 @@
 # Fundamentals of Accounting (2021)
 
-By J. Järvinen & H. Jarva
+Lecture notes.
+
+Course by J. Järvinen & H. Jarva
 721138S
+
+---
 
 ## 06-09-2021
 
@@ -84,7 +88,138 @@ political matters as well.
 * **Managerial Accounting (MA):** Process by which financial position and results of a firm are communicated internally
 * In the first part of the course we focus on _Financial Accounting_
 
-# Economics of accounting information
+### Economics of accounting information
 
 * Financial statements are **demanded** because of their value as a source of information about company performance, financial condition, and stewardship of resources
 * The **supply** of financial information is guided by the costs of producing and disseminating it and the benefits it will provide to the company
+
+### Demand for financial statements
+
+Users:
+* Current and potential investors
+  * Should I invest, remain as an investor
+* Creditors and lenders (e.g., banks)
+  * Should we grant a loan for the company, at what terms
+  * Payout function different from investors, i.e. there is an upper bound for the upside (principal + agreed interest)
+   - Due to this investors typically are interested in the forward-looking information
+   - Lenders less interested in how astronomical the profits might be, just that they're "enough" to cover the loan payments
+* Suppliers and customers
+* Government: Regulators, Standard Setters, Tax Authorities
+* Employees and trade unions
+  * If things look good, it's easier to ask for more salary
+  * Especially in countries such as Finland and Gerymany, where unions are strong
+* Competitors
+  * Usually ifficult to extract product pricing data (manufacturing costs / margin)
+* Financial community in general (e.g., analysts, investment bankers and consulting firms, rating agencies)
+* Environmental agencies
+  * Growing, ESG etc.
+
+### Diverse needs of financial statement users
+
+* Investors and creditors are the primary users:
+ a) What decisions do they make?
+ b) What type of financial information they are **most** interested in?
+
+### Rules of the game: accounting standards
+
+* **GAAP**:
+  - Term GAAP is shorthand for *generally accepted accounting principles* - generic definition:
+   * "The set of rules and standards issued by various regulatory bodies which companies are expected to comply with"
+* Worldwide accounting rules have largely been standardized
+  - Advantage: as corporations draw captital and conduct business across national boundaries, a common financial language improves efficiencies
+  - Response: International Financial Reporting Standards (IFRS)
+  - Standard-setting done in top-down manner nowadays
+   * Financial Accounting Standards Board in US
+    - Independent, private
+    - SEC mandated (but can overrule FASB decisions)
+    - Accounting subject to political pressure, so rules not always created by the "ideal accountant"
+    - E.g. during crisis the guidelines and solutions can get odd (jury is still out there on this)
+     * There can be lobbying to influence accounting standards, for example to avoid certain effects to income statements (due to compensation structures and bonus contracts)
+   * International Accounting Standard Board internationally
+    - Some old standards still in place, but mostly superceded by IFRS
+   * US GAAP vs. IFRS
+    - Very similar
+    - US GAAP more conservative in some respects
+    - Which one is used depends, and sometimes the leadership of SEC affects this (appointed by the president of the US, e.g. Biden selects his own)
+    - Countries around the world also use domestic standard to some extent, especially SMEs
+
+### Elements of the IFRS regulation
+
+Skipped for now, revisied in a later lecture
+
+* IFRS regulation consists of the following elements
+ - IAS (IFRS) standards
+ - Framework
+ - IFRIC (SIC) interpretations
+
+* IFRS and IAS standards contain the actual regulations for financial reporting
+ - Each standard regulates different issues of financial reporting
+ - IAS standards are "old" standards, issued before 2003
+
+* Framework
+ - Defines the general principles according to which IFRS/IAS standards are developed (not a standard)
+
+### Structure of IFRS standards
+
+Each standard typically provides guidance on the following general issues:
+
+* **Recognition** of elements of financial statements
+* **Measurement** of elements of financial statements
+* **Disclosure**
+
+A complete set of financial statement comprises:
+* A statement of financial position (balance sheet)
+ - Snapshot of the financial status of the company
+ - Other statements are a flow between two dates, not a momentary snapshot 
+* A statement of profit or loss and other comprehensive income (income statement)
+ - Mistakes here skew the results for the next period (positive or negative)
+* A statement of changes in equity
+ - Shows things not visible in the income statement
+ - Recently more and more things not visible on the income statement are mentioned here, thus it's increasingly important to also comb through this
+* A statement of cash flows
+ - One element of the balance sheet is tracked during a set timeline to see the initial and the end status, and all the activities during the timeline
+ - Differs based on the lifecycle of the company (first investments, loan payments, later on dividends to the investors)
+ - Mandatory from 1998 (or 88?) in US, not mandatory in Finland and rarely published by companies in Finland
+* Notes, comprising significant accounting policies and other explanatory information
+
+### IFRS Conceptual framework: The objective of general purpose financial reporting
+
+* The objective of general purpose financial reporting is to provide financial information about the reporting entity that **is useful** to existing 
+  and potential investors, lenders and other creditors **in making decisions** about providing resources to the entity. Those decisions involve buying,
+  selling or holding equity and debt instruments, and providing or settling loans and other forms of credit.
+* Investors', lenders', and other creditors' expectations about returns depend on their assessment of the amount, timing and uncertinty of (the prospects for)
+  future net cash inflows to the entity. Consequently, existing and potential investors, lenders and other creditors need information to help them
+  **assess the prospects for future net cash inflows** to an entity.
+  
+### IFRS Conceptual framework: Desirable characteristics of useful financial information
+
+
+Decision usefulness 
+  * **Fundamental characteristics**
+  * Relevance (Materality)
+    - **Components**
+     * Predictive value
+     * Confirmatory value
+  * Faithful representation (Reliability)
+    - **Components**
+     * Completeness
+     * Neutrality
+     * Free from material error
+ 
+Decision usefulness, **enhancing characteristics**
+ * Comparability (Consistency)
+ * Verifiability
+ * Timeliness
+ * Understandability
+
+### Relevance vs. faithful representation illustration
+
+Farmers State Bank is considering a $500,000 loan to Willard Manufacturing. Three items appearing on Willard's balance sheet are:
+ a) Cash on hand and in the bank, $20,000
+ b) Accounts receivable of $60,000, less an estimate for uncollectibles of $15,000
+ c) Accumulated depreciation of $36,000
+ 
+Which items are the most relecant for the bank's loan decision? Which are the most representationally faithful?
+
+- A bit short on cash
+- Worrysome that 25% of receivables are uncollectibles
