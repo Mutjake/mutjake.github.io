@@ -221,5 +221,48 @@ Farmers State Bank is considering a $500,000 loan to Willard Manufacturing. Thre
  
 Which items are the most relecant for the bank's loan decision? Which are the most representationally faithful?
 
+- Most important: cash on hand
 - A bit short on cash
+  * Thus, bank would be interested in the cash-generating capacity of the company since this is required for the loan repayment
 - Worrysome that 25% of receivables are uncollectibles
+- Depriciation not interesting for the bank
+  * More interesting might be the sell price of the tanglible assets, since on default bank would be trying to recoup the loan by selling these
+
+### Other characteristics of financial information: Conservatism
+
+**Conservatism (prudence)** strives to ensure that business risks and uncertainties are adquately reflected in the financial reports:
+- i.e., accelerating recognition of bad news (losses) and delaying recognition of good news (gains)
+- The current IFRS Conceptual Framework (2010) does not include conservatism as an aspect of faithful representation any more
+- Still, accounting conservatism is reflected in many currently used standards
+
+- Two types of prudence:
+  * balance sheet conservatism
+   - unconditional conservatism
+   - If money is expended, it's not counted as an asset until one is discovered: if something tanglible is purchased, it is counted as an asset BUT spending money on e.g. R&D is not an asset until something tangible is produced (e.g. patent, a sellable product)
+  * income statement conservatism
+   - Aka. conditional conservatism
+   - Assets in books need to be proactively depreciated on bad news (let's say a factory machine is forecasted to only last 5 years instead of 10), in the opposite case the depreciation period is elongated (the advantage of this arrives slower)
+
+- H. Jarva did his PhD on accounting conservatism
+
+### Accounting conservatism illustrated
+
+How does the concept of accounting conservatism apply to each of the following situations?
+
+a) Suppose your company purchased land and a warehouse for $5 million. The price was steep, but you were told that a new highway was going to be built nearby. Two months later, the highway project is canceled and your property is worth only $3MM.
+b) Suppose instead that you paid $3 million and later learned that the property is woth $5MM because a new highway is going to be built nearby.
+
+### Balance Sheet
+
+* **The Balance Sheet** (or Statement of Financial Position) is a snapshot of the firm's financial position at a point time (e.g., December 31, 2018)
+* The Balance Sheet reflects the equality of the Balance Sheet Equation:
+
+Assets (How the money is invested) = Liabilities + Equity (Where the money came from)
+
+### Elements of balance sheet: assets
+
+* An asset is a resource **controlled** by the entity as a result of past event and from which **future economic benefits** are expected to flow to the entity (IFRS Framework).
+* An asset is **recognized** in the balance sheet when it is **probable** that the future economic benefits will flow to the entity and the asset has a a cost or value that can be **measured reliably** (IFRS Framework).
+  - use of estimates is permitted
+* **Not all assets are recognized on the balance sheet**
+
