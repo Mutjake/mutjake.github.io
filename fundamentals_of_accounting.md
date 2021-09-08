@@ -238,7 +238,7 @@ Which items are the most relecant for the bank's loan decision? Which are the mo
 - Two types of prudence:
   * balance sheet conservatism
    - unconditional conservatism
-   - If money is expended, it's not counted as an asset until one is discovered: if something tanglible is purchased, it is counted as an asset BUT spending money on e.g. R&D is not an asset until something tangible is produced (e.g. patent, a sellable product)
+   - If money is expended, it's not counted as an asset until one is discovered: if something tanglible is purchased, it is counted as an asset BUT spending money on e.g. R&D is not an asset until something concrete is produced (e.g. patent, a sellable product)
   * income statement conservatism
    - Aka. conditional conservatism
    - Assets in books need to be proactively depreciated on bad news (let's say a factory machine is forecasted to only last 5 years instead of 10), in the opposite case the depreciation period is elongated (the advantage of this arrives slower)
@@ -266,3 +266,66 @@ Assets (How the money is invested) = Liabilities + Equity (Where the money came 
   - use of estimates is permitted
 * **Not all assets are recognized on the balance sheet**
 
+### Balance sheet account classification: current vs. non-current
+
+Assets and liabilities are grouped into current and non-current on the balance sheet, except when a presentation based on liquidity provides information that is reliable and more relevant (e.g., for firms in financial industry).
+
+Current Assets (Consumes or converts into cash within one year or one operating cycle, whichever is longer) + Noncurrent Assets (All other assets) = Total Assets
+Current Liabilities (Obligations that must be paid within one year or one operating cycle, whichever is longer) + Noncurrent Liabilities (All other liabilities) = Total Liabilities
+
+In IFRS, assets and liabilities may be presented both from most liquid to least liquid or from least liquid to most liquid.
+
+### Assets section illustrated: KONE 2018
+
+- Non-current assets:
+ * Goodwill: acquisition "premium", i.e. something is acquired with larger sum than the book value is. In these cases the books are balanced by marking this difference as goodwill.
+ * Other intangible assets, e.g. patents
+- Current assets
+
+### Examples of items generating benefits but not recognized on the balance sheet as assets
+
+Intangibles that have not been bought from someone else, but have been developed by the firm itself (also called internally generated goodwill) e.g.:
+* Brand names
+* Quality of the customer service
+* Customer lists
+* Skilled labor force
+* etc.
+
+Certain expenditures, e.g.:
+* Investment by a pharmaceutical company to develop a drug against a serious disease
+* Research expenditures for development of new products
+
+Highly uncertain receivables, e.g.:
+* Estimated receipt from an expected settlement of an on-going legal dispute
+
+### Asset recognition
+
+* A hierarchy of decisions regarding expenditures (=payments):
+  - Has the event of transaction giving a control over the resource occurred?
+  - Is it probable that future economic benefits flow to the entity?
+  - Can the future benefits be measured reliably?
+
+Expenditure
+ * 'Capitalized' = Recorded as an asset on the balance sheet
+ * 'Expensed' = Recorded as an expense in the income statement
+
+### Recap: Does the transaction give rise to an asset?
+
+a) A farmer agrees to purchase feedstock in the amount of $156k from a local supplier
+b) The farmer invests $245k in research to develop a new strain of cattle feed that can be produced from cottonseed
+c) The farmer pays $120k to purchase a new tractor
+d) The farmer pays its neighbor $36k in advance for the right to graze his cattle on his neighbor's fields for the next three months
+e) The farmer exchanges common shares for a patent on a new weighing machine for cattle. The value of the common shares exchanged is $60k
+f) The farmer pays $20k for a veterinary training
+
+### Elements of balance sheet: liabilities
+
+A liability is a present **obligation** of the entity arising from past events, the settlement of which is expected to result in an outflow from the entity of resources embodying economic benefits (assets)
+- An obligation is a duty or responsibility to act or perform in a certain way
+- Obligations may be legally enforceable as a consequence of a binding contract or statutory requirement
+
+A liability is **recognized** in the balance sheet when it is **probable** that an outflow of resources embodying economic benefits will results from the settlement of a present obligation and the amount at which the settlement will take place can be **measured reliably** (IFRS Framework)
+
+**Not all obligations are recognized on the balance sheet**
+
+### Liabilities section illustrated: KONE 2018
