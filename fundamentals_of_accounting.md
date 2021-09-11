@@ -329,3 +329,29 @@ A liability is **recognized** in the balance sheet when it is **probable** that 
 **Not all obligations are recognized on the balance sheet**
 
 ### Liabilities section illustrated: KONE 2018
+
+_TODO: check the rest of the slides_
+
+## 08-09-2021
+
+Understanding accrual accounting is a cornerstone for understanding other concepts.
+
+Fundamental thing to learn is to understand basic bookkeeping.
+* How to form balance sheets and income statements
+* Basics of cashflow statements
+
+```
+Difficult to see. Always in motion is the future.
+
+--Yoda
+```
+
+### Examples of obligations _not always_ recognized on the balance sheet as liabilities
+
+* Obligations that are of uncertain timing or amount of both (called **provisions** in IFRS), e.g.:
+  - warrant provisions, environmental provisions, restructuring provisions, etc.
+  - these are usually recognized as liabilities, but will not be recognized if estimates are unreliable
+* Obligations that are not probable and cannot be reasonably estimated (called **contingent liabilities** in IFRS), e.g.,:
+  - obligations arising from lawsuits
+* Obligations under contracts that are equally proportionately unperformed, e.g.:
+  - liabilities for inventory ordered but not yet received
