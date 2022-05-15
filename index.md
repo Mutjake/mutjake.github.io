@@ -4,6 +4,19 @@ Hello world! I'm a software developer from Oulu, Finland. You can find me around
 
 ---
 
+## 2022-05-15
+
+Blogging isn't my biggest priority it seems :-D Oh well, had a busy year, at least got both work and some studies done. But the work load was too much, feels good now that the studies are mostly out of the way until fall. I'll need to figure out what's a suitable amount of coursework to take.
+
+Some links: 
+* A nice collection of tips&tricks for website design stuff @ (https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/)
+* Joe Armstrong interviewing Alan Kay @ (https://www.youtube.com/watch?v=fhOHn9TClXY)
+* Joe Armstrong interviewing Larry Wall @ (https://www.youtube.com/watch?v=SpH9BTMZKXc)
+* "The Mess We're In" by Joe Armstrong @ (https://www.youtube.com/watch?v=lKXe3HUG2l4)
+* Some Excel visualization wizardy @ (https://www.youtube.com/watch?v=z26zbiGJnd4)
+
+Oh yeah, the land war in Europe didn't help, following that has been a time sink. Who knows how much more suffering that is going to cause, but hopefully we can look into the previous decade or two and figure out retrospectively what Europe could've done to prevent that.
+
 ## 2021-08-31
 
 Not sure if I'm going to be big on blogging, but figured this might be a good evening to start. At least there will be something here then :-) Since I'm gearing up for new studies, might as well try to hone my writing skills a bit.
